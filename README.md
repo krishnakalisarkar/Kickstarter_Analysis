@@ -30,7 +30,7 @@ Most of successful campaigns are launched in early summer, in month of April and
 ** Conclusion:2 **
 It is not a good time to start a Kickstarter campaign in the month of September as the success rate goes downhill from September.December is the worst month as it coincides with the end of the financial year. It is an uphill task to raise funds in the last quarter of the year (i.e. Oct – Dec). We can see that the failure rate is highest in October(43%). Similar trend is noticed for Kickstarter campaigns launched in the beginning of the financial year.
 
-![Figure:1](Resource/Theater_Outcomes_VS_Launch.png = 100*200)
+![Figure:1](Resource/Theater_Outcomes_VS_Launch.png)
 
 - What can you conclude about the Outcomes based on Goals?
 
