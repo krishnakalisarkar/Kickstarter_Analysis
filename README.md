@@ -49,7 +49,7 @@ It is not a good time to start a Kickstarter campaign in the month of September 
 * We have not analyzed the use of spotlight on the possible outcome of campaigns. 
 -All successful outcomes in kickstart campaign had spotlight, all failed outcomes did not have spotlight.
 
-![image_name](path/to/image_name.png)
+![figure:3](Resource/Theater_success_with_spotlight_extra.png)
 
 * We have not compared the possible outcome of kickstart campaign based on launch date in USA with other countries mainly Great Britain.
 -Although both USA and Great Britain has the most successful campaign launched in May but the number of theater launched in USA is way more (900)compared to Great Britain (353). In USA, the success peaks in May and gradually plummets down but in Great Britain there is a plateau in May and June and plummets in July.Interestingly, the success rate is higher in Great Britain (73%) as compared to USA (53%)
