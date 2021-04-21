@@ -55,4 +55,4 @@ It is not a good time to start a Kickstarter campaign in the month of September 
 -Although both USA and Great Britain has the most successful campaign launched in May but the number of theater launched in USA is way more (900)compared to Great Britain (353). In USA, the success peaks in May and gradually plummets down but in Great Britain there is a plateau in May and June and plummets in July.Interestingly, the success rate is higher in Great Britain (73%) as compared to USA (53%)
 
 ![Figure:4](Resource/Theater_Outcome_USA_Extra.png)
-![Figure:4](Resource/Theater_Outcomes_GB_Extra.png)
+![Figure:5](Resource/Theater_Outcomes_GB_Extra.png)
