@@ -36,7 +36,7 @@ It is not a good time to start a Kickstarter campaign in the month of September 
 
 * Kickstarter campaigns with goal less than 1000 dollars have a better chance at success. In fact, there seems to be a negative correlation between success rate and goal of the  Kickstarter campaign.There is a raised plateau seen in the 30,000 to 50,000 range, this could be attributed to star studded personalities participating in the theater.
 
-![image_name](path/to/image_name.png)
+![Figure:2](Resource/Outcomes_VS_Goals.png)
 
 - What are some limitations of this Dataset?
 ** Limitation 1:** This data set mainly covers European countries, North America. There is no data set from Asian subcontinent and South America or any other third word country.Any insight from these countries can he helpful as well.
