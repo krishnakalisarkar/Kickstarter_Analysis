@@ -46,13 +46,22 @@ It is not a good time to start a Kickstarter campaign in the month of September 
 
 - What are some other possible tables and/or graphs that we could create?
 
-* We have not analyzed the use of spotlight on the possible outcome of campaigns. 
+* I have also analyzed the use of spotlight on the possible outcome of campaigns. 
 -All successful outcomes in kickstart campaign had spotlight, all failed outcomes did not have spotlight.
 
 ![Figure:3](Resource/Theater_success_with_spotlight_extra.png)
 
-* We have not compared the possible outcome of kickstart campaign based on launch date in USA with other countries mainly Great Britain.
+* Further, I compared the possible outcome of kickstart campaign based on launch date in USA with other countries mainly Great Britain.
 -Although both USA and Great Britain has the most successful campaign launched in May but the number of theater launched in USA is way more (900)compared to Great Britain (353). In USA, the success peaks in May and gradually plummets down but in Great Britain there is a plateau in May and June and plummets in July.Interestingly, the success rate is higher in Great Britain (73%) as compared to USA (53%)
 
 ![Figure:4](Resource/Theater_Outcome_USA_Extra.png)
 ![Figure:5](Resource/Theater_Outcomes_GB_Extra.png)
+
+* I looked into the descriptive statistics of the successful and the failed outcomes. It is interesting to see that the standard deviation of successful outcomes is way higher (X75) than that of failed outcomes, meaning that the successful outcome data has higher variability. I also noticed that there are more backers in the successful outcomes(412) compared to failed outcomes (250). Another interesting fact is that around 18 backers is optimally needed for a successful campaign while most failed campaigns have a single backer. The median (mid-point) number of backers for successful outcome is 41 as compared to 4 for unsuccessful one. 
+
+*"On an endnote Kickstarter campaigns can be successful only when it is supported by enthusiastic backers."*
+
+![Figure:6](Resource/Successful_backers.png)
+![Figure:7](Resource/Failed_backers.png)
+
+
