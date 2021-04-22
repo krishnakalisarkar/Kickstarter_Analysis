@@ -62,6 +62,6 @@ It is not a good time to start a Kickstarter campaign in the month of September 
 *"On an endnote Kickstarter campaigns can be successful only when it is supported by enthusiastic backers."*
 
 ![Figure:6](Resource/Succesful_backers.png)
-![Figure:7]()
+![Figure:7](Resource/Failed_backer.png)
 
 
