@@ -10,7 +10,7 @@ Analysis of Kickstarter data using Excel
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date:
-* I analyzed the outcomes based on launch date by using the parent filter and years in pivot table,I further narrowed the parent category to concentrate on theaters. I investigated the outcomes (successful, failed and canceled) based on launch date every month.This was followed by a graph that I created using line diagram that depicted the result that is easy to understand.I didn't face any challenge in working and analyzing this data.
+* I analyzed the outcomes based on launch date by using the parent category and years as filters in pivot table,I further narrowed the parent category to concentrate on theaters. I investigated the outcomes (successful, failed and canceled) based on launch date every month.This was followed by a graph that I created using line diagram that depicted the result that is easy to understand.I didn't face any challenge in working and analyzing this data.
 
 ### Analysis of Outcomes Based on Goals:
 * I analyzed the outcomes based on goals by using COUNT IFS from Excel and further narrowing it to the goals range and specifying the outcomes as successful, failed and canceled. I further filtered the subcategory to plays to narrow down the data analysis. This was followed by a chart that I created using the goals in the X axis and the outcomes in the Y axis.
