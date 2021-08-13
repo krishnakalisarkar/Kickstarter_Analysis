@@ -1,6 +1,8 @@
 # Kickstarter_Analysis
 Analysis of Kickstarter data using Excel
 
+![](https://lh3.googleusercontent.com/proxy/COqSG1AhKnHrt9up6wNqZbSXGFORkxDxIU4swL5SQzx7UUhdx9xboM2t-kHzjtlMjXNuzSEp1wZ2AFfIASvNFBzkqKYZoE-79ptcRlAbbV3oy_9SYnGEo4DR0rshIfqzMzbVrOWdOPQyL8o0-lm9iDoD)
+
 ## Overview of Project
 *"When I see Kickstarter, I don't see a company. Instead, I see a social movement. I see people doing things for people. I see small businesses that have been funded by their customers." By Om Malik*
 * Kickstarter is a funding platform for creative projects.Every project creator sets their project's funding goal and deadline. If people like the project, they can pledge money to make it happen.This detailed dataset is about various kickstart projects in performing arts from various countries like US, Great Britain, Spain France etc. As a budding Data Analyst, I have been provided with the kickstarter dataset in Excel.I am expected to find interesting conclusions, visualize it in graphs and charts to demonstrate trends, patterns and relationships between sets of data.
